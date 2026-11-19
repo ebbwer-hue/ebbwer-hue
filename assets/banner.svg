@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Кушалиев Амир</title>
+  <desc id="desc">Приложения для Windows, веб-сайты и Telegram-боты</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#17243c"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#54d6d0"/><stop offset="1" stop-color="#789cff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="#789cff" stroke-opacity=".16"><circle cx="1110" cy="140" r="180"/><circle cx="1110" cy="140" r="135"/><circle cx="1110" cy="140" r="90"/></g>
+  <rect x="58" y="55" width="52" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="58" y="131" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="700">Кушалиев Амир</text>
+  <text x="60" y="180" fill="#b8c6db" font-family="Segoe UI,Arial,sans-serif" font-size="23">Веб-сайты · Windows-приложения · Telegram-боты</text>
+  <text x="60" y="243" fill="#68d5df" font-family="Segoe UI,Arial,sans-serif" font-size="18">GITHUB / EBBWER-HUE</text>
+</svg>
